@@ -5515,6 +5515,12 @@
       "url": "https://json.schemastore.org/clang-format.json"
     },
     {
+      "name": "clang-tidy (.clang-tidy)",
+      "description": "yaml clang-tidy config",
+      "fileMatch": [".clang-tidy"],
+      "url": "https://json.schemastore.org/clang-tidy.json"
+    },
+    {
       "name": "Estuary Flow Catalog",
       "description": "Flow catalog files. Documentation: https://github.com/estuary/flow",
       "fileMatch": ["flow.yaml", "*.flow.yaml", "flow.json", "*.flow.json"],
